@@ -1,10 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Poll+Garro+%F0%9F%91%8B;Ingenier%C3%ADa+en+Computaci%C3%B3n+%40+TEC;Backend+%C2%B7+Bases+de+Datos+%C2%B7+Cloud;DevOps+%C2%B7+IA+%C2%B7+QA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Poll+Garro;Ingenier%C3%ADa+en+Computaci%C3%B3n+%40+TEC;Cloud+%C2%B7+Seguridad+%C2%B7+DevOps;Bases+de+Datos+%C2%B7+Docker+%C2%B7+Kubernetes" alt="Typing SVG" />
 
 <p>
-  <img src="https://img.shields.io/badge/Tecnol%C3%B3gico%20de%20Costa%20Rica-Ingenier%C3%ADa%20en%20Computaci%C3%B3n-0d1117?style=for-the-badge&labelColor=1f6feb" />
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Costa%20Rica-0d1117?style=for-the-badge&labelColor=238636" />
+  <img src="https://img.shields.io/badge/Costa%20Rica-238636?style=for-the-badge" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/Tecnol%C3%B3gico%20de%20Costa%20Rica-1f6feb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ingenier%C3%ADa%20en%20Computaci%C3%B3n-30363d?style=for-the-badge" />
 </p>
 
 </div>
@@ -14,8 +17,8 @@
 ### 👨‍💻 Sobre mí
 
 - 🎓 Estudiante de **Ingeniería en Computación** en el Tecnológico de Costa Rica
-- ⚙️ Me enfoco en **backend**, **bases de datos** y **cloud**
-- 🚀 Interesado en **DevOps**, **Inteligencia Artificial** y **QA**
+- ☁️ Enfocado en **Cloud Computing**: infraestructura, **seguridad en la nube** y **DevOps**
+- 🐳 Contenedores con **Docker** y **Kubernetes**, y **bases de datos** con SQL Server
 - 👨‍🏫 Fui tutor de *Introducción a la Programación* y *Matemática General*, y colaboré con el programa de *Atracción Estudiantil* del TEC
 - 🏆 Participo en hackatones y competencias de programación como **ICPC**
 - 🌱 Autodidacta y siempre aprendiendo algo nuevo
